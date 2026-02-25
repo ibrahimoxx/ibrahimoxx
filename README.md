@@ -10,10 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-ff2d55?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:ibrahimistouri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img alt="Connect" src="https://img.shields.io/badge/CONNECT-1f6feb?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.instagram.com/iibrahimox?igsh=MWhua3MzeG9iaXZueg%3D%3D&utm_source=qr">
+    <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:ibrahimistouri@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-stouri">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ibrahimoxx">
+    <img alt="Connect" src="https://img.shields.io/badge/CONNECT-1f6feb?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -97,6 +105,7 @@ I design and deliver end-to-end products with:
   <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/><div>Eclipse</div></div>
   <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/><div>Android Studio</div></div>
 </div>
+
 ---
 
 <p align="center">
