@@ -42,138 +42,128 @@ I design and deliver end-to-end products with:
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Programming Languages
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br/>Java
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br/>Python
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/><br/>C
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/><br/>C++
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/><br/>C#
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/><br/>JavaScript
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/><br/>TypeScript
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/><br/>PHP
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br/>Java
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/><br/>Python
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/><br/>C
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/><br/>C++
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/><br/>C#
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/><br/>JavaScript
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/><br/>TypeScript
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/><br/>PHP
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL"/><br/>SQL
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Web & Frameworks
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/><br/>Django
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/><br/>Laravel
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/><br/>React
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br/>Node.js
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/><br/>.NET
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/><br/>FastAPI
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/><br/>Spring
-  </div>
-</div>
 
-### 🗄️ Databases & NoSQL
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/><br/>MySQL
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/><br/>SQL Server
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/><br/>Oracle
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br/>PostgreSQL
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/><br/>SQLite
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/><br/>MongoDB
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/><br/>Redis
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j"/><br/>Neo4j
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg" alt="Cassandra"/><br/>Cassandra
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/><br/>Firebase
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"/><br/>Django
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/><br/>Laravel
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/><br/>React
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/><br/>Node.js
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/><br/>.NET
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/><br/>FastAPI
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/><br/>Spring
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="JEE"/><br/>JEE
+    </td>
+    <td align="center" width="95">
+      <img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Swing"/><br/>Swing
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Backend Services
+
+<table>
+  <tr>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/><br/>MySQL</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/><br/>SQL Server</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/><br/>Oracle</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/><br/>PostgreSQL</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/><br/>SQLite</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/><br/>MongoDB</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/><br/>Redis</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4j"/><br/>Neo4j</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg" alt="Cassandra"/><br/>Cassandra</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase"/><br/>Firebase</td>
+  </tr>
+</table>
 
 ### 🤖 AI / Data / Automation
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/><br/>Jupyter
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/><br/>Pandas
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/><br/>NumPy
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/><br/>OpenCV
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/><br/>Jupyter</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/><br/>Pandas</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/><br/>NumPy</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV"/><br/>OpenCV</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/><br/>Matplotlib</td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/><br/>Docker</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/><br/>AWS</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/><br/>Git</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="RedHat"/><br/>RedHat</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/><br/>Linux</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure"/><br/>Azure</td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & IDEs
-<div style="display:flex;flex-wrap:wrap;gap:14px;">
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/><br/>Git
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/><br/>GitHub
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/><br/>Docker
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/><br/>Postman
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"/><br/>Maven
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/><br/>VS Code
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ"/><br/>IntelliJ
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse"/><br/>Eclipse
-  </div>
-  <div align="center" style="width:90px;">
-    <img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/><br/>Android Studio
-  </div>
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/><br/>GitHub</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/><br/>Postman</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven"/><br/>Maven</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/><br/>VS Code</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ"/><br/>IntelliJ</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse"/><br/>Eclipse</td>
+    <td align="center" width="95"><img width="34" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio"/><br/>Android Studio</td>
+  </tr>
+</table>
 
 ---
 
