@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ibrahim STOURI 👋</h1>
+<h1 align="center">Hi , I'm Ibrahim STOURI 👋</h1>
 
 <p align="center">
   <b>Full-Stack Software Engineer & Web Developer</b><br/>
@@ -33,64 +33,70 @@ I design and deliver end-to-end products with:
 
 ## 🧰 Tech Stack & Tools
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=databricks&logoColor=white)
+<style>
+.tech-grid{display:flex;flex-wrap:wrap;gap:14px}
+.tech-item{width:86px;text-align:center;font-size:12px;opacity:.95}
+.tech-item img{width:42px;height:42px}
+.tech-title{margin:18px 0 10px 0}
+</style>
+
+### 💻 Programming Languages
+<div class="tech-grid">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><div>Java</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><div>Python</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><div>C</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><div>C++</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/><div>C#</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><div>JavaScript</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/><div>TypeScript</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/><div>PHP</div></div>
+</div>
 
 ### 🌐 Web & Frameworks
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot&logoColor=white)
-![JEE](https://img.shields.io/badge/JEE-000?style=for-the-badge&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-000?style=for-the-badge&logo=java&logoColor=white)
+<div class="tech-grid">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/><div>Django</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/><div>Laravel</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><div>React</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/><div>Node.js</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/><div>.NET</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><div>FastAPI</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/><div>Spring</div></div>
+</div>
 
-### 🗄️ Databases & Backend Services
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-000?style=for-the-badge&logo=neo4j&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-000?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white)
+### 🗄️ Databases & NoSQL
+<div class="tech-grid">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><div>MySQL</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/><div>SQL Server</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/><div>Oracle</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><div>PostgreSQL</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><div>SQLite</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/><div>MongoDB</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/><div>Redis</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg"/><div>Neo4j</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachecassandra/apachecassandra-original.svg"/><div>Cassandra</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/><div>Firebase</div></div>
+</div>
 
 ### 🤖 AI / Data / Automation
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-000?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly&logoColor=white)
+<div class="tech-grid">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/><div>Jupyter</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/><div>Pandas</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><div>NumPy</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/><div>OpenCV</div></div>
+</div>
 
-### 🧱 Architecture & Concepts
-![UML](https://img.shields.io/badge/UML-000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-000?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-000?style=for-the-badge&logo=framework&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-000?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-000?style=for-the-badge&logo=androidstudio&logoColor=white)
-
+### 🛠️ Tools & IDEs
+<div class="tech-grid">
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/><div>Git</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><div>GitHub</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><div>Docker</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/><div>Postman</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/><div>Maven</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/><div>VS Code</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/><div>IntelliJ</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg"/><div>Eclipse</div></div>
+  <div class="tech-item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/><div>Android Studio</div></div>
+</div>
 ---
 
 <p align="center">
