@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ibrahim STOURI 👋</h1>
+<h1 align="center">Hi , I'm Ibrahim STOURI 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> (Django • Laravel • React • .NET) •
