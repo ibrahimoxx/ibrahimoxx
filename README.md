@@ -42,7 +42,7 @@ I design and deliver end-to-end products with:
 ## 🧰 Tech Stack & Tools
 
 ### 👨‍💻 Programming Languages
-<table align="center" border="0" cellpadding="18" cellspacing="0">
+<table align="center" border="" cellpadding="18" cellspacing="0">
   <tr>
     <td align="center">
       <img width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/><br/>
