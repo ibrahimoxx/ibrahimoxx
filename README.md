@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/iibrahimox?igsh=MWhua3MzeG9iaXZueg%3D%3D&utm_source=qr">
+  <a href="https://www.instagram.com/iibrahimox">
     <img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-ff2d55?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:ibrahimistouri@gmail.com">
